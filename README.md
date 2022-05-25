@@ -31,3 +31,6 @@ In order to ease the task for Mr. Ade, Prepare an HTML table that has:
 - Ensure your table has a border attribute with a value of 1, cell padding, and cell spacing with a value of 5.
 - Ensure your total scores has a colspan twice the score
 - Ensure each subject score (td) has a class attribute.
+<div align-item = "center">
+<img src = "image/table2.png">
+</div>

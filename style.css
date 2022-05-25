@@ -1,0 +1,38 @@
+body {
+  font-family: "Open Sans";
+}
+h1 {
+  text-align: center;
+  color: #0891b2;
+  text-transform: uppercase;
+}
+h2 {
+  text-align: center;
+
+  color: #0891b2;
+}
+h3 {
+  text-align: center;
+  color: #0891b2;
+}
+table {
+  border-bottom: 3px solid #0891b2;
+  text-align: center;
+  border-radius: 5px;
+}
+table {
+  width: 100%;
+}
+#heading {
+  font-size: 1.3rem;
+}
+.tr--1 {
+  background-color: #0891b2;
+  color: #fff;
+}
+.tr--2 {
+  color: #0891b2;
+}
+.tr--3 {
+  background-color: #cffafe;
+}
